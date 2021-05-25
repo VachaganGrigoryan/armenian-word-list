@@ -28,8 +28,8 @@ def get_proxies():
 
 class Config:
     arm_upper_letter = 'ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ'
-    # arm_lower_letter = 'աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև'
-    arm_lower_letter = 'փքօֆև'
+    arm_lower_letter = 'աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև'
+    # arm_lower_letter = 'փքօֆև'
 
     url = "https://bararanonline.com/"
     endpoint = "letter/"
